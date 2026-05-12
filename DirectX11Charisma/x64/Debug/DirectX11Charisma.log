@@ -1,0 +1,20 @@
+﻿  tut09_camera.cpp
+D:\[VisualStudio] REPOS\DirectX11Charisma\DirectX11Charisma\tut09_camera.cpp(188,21): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
+D:\[VisualStudio] REPOS\DirectX11Charisma\DirectX11Charisma\tut09_camera.cpp(188,27): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
+D:\[VisualStudio] REPOS\DirectX11Charisma\DirectX11Charisma\tut09_camera.cpp(263,10): error C2664: 'HRESULT CompileShaderFromFile(WCHAR *,LPCSTR,LPCSTR,ID3DBlob **)': cannot convert argument 1 from 'const wchar_t [15]' to 'WCHAR *'
+      D:\[VisualStudio] REPOS\DirectX11Charisma\DirectX11Charisma\tut09_camera.cpp(263,32):
+      Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+      D:\[VisualStudio] REPOS\DirectX11Charisma\DirectX11Charisma\tut09_camera.cpp(29,9):
+      see declaration of 'CompileShaderFromFile'
+      D:\[VisualStudio] REPOS\DirectX11Charisma\DirectX11Charisma\tut09_camera.cpp(263,10):
+      while trying to match the argument list '(const wchar_t [15], const char [3], const char [7], ID3DBlob **)'
+  
+D:\[VisualStudio] REPOS\DirectX11Charisma\DirectX11Charisma\tut09_camera.cpp(299,10): error C2664: 'HRESULT CompileShaderFromFile(WCHAR *,LPCSTR,LPCSTR,ID3DBlob **)': cannot convert argument 1 from 'const wchar_t [15]' to 'WCHAR *'
+      D:\[VisualStudio] REPOS\DirectX11Charisma\DirectX11Charisma\tut09_camera.cpp(299,32):
+      Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+      D:\[VisualStudio] REPOS\DirectX11Charisma\DirectX11Charisma\tut09_camera.cpp(29,9):
+      see declaration of 'CompileShaderFromFile'
+      D:\[VisualStudio] REPOS\DirectX11Charisma\DirectX11Charisma\tut09_camera.cpp(299,10):
+      while trying to match the argument list '(const wchar_t [15], const char [3], const char [7], ID3DBlob **)'
+  
+D:\[VisualStudio] REPOS\DirectX11Charisma\DirectX11Charisma\tut09_camera.cpp(465,66): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DirectX11Charisma/DirectX11Charisma.vcxproj" Id="8b401907-bdee-4f61-920f-64daf0d76d5d" />
+</Solution>
