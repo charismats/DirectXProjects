@@ -1,7 +1,0 @@
-﻿  tut09_camera.cpp
-D:\[VisualStudio] REPOS\DirectX11Charisma\DirectX11Charisma\tut09_camera.cpp(188,21): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
-D:\[VisualStudio] REPOS\DirectX11Charisma\DirectX11Charisma\tut09_camera.cpp(188,27): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
-D:\[VisualStudio] REPOS\DirectX11Charisma\DirectX11Charisma\tut09_camera.cpp(465,66): warning C4244: 'argument': conversion from 'UINT' to 'float', possible loss of data
-tut09_camera.obj : error LNK2001: unresolved external symbol D3D11CreateDeviceAndSwapChain
-tut09_camera.obj : error LNK2001: unresolved external symbol D3DCompileFromFile
-D:\[VisualStudio] REPOS\DirectX11Charisma\x64\Release\DirectX11Charisma.exe : fatal error LNK1120: 2 unresolved externals
